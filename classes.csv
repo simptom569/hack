@@ -1,0 +1,25 @@
+class_idx, class_name
+0,cartwheel
+1,catch
+2,clap
+3,climb
+4,dive
+5,draw_sword
+6,dribble
+7,fencing
+8,flic_flac
+9,golf
+10,handstand
+11,hit
+12,jump
+13,pick
+14,pour
+15,pullup
+16,push
+17,pushup
+18,shoot_ball
+19,sit
+20,situp
+21,swing_baseball
+22,sword_exercise
+23,throw
